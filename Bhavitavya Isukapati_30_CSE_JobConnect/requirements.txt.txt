@@ -1,0 +1,19 @@
+# Frontend Dependencies (React)
+react
+react-dom
+react-router-dom
+axios
+tailwindcss
+postcss
+autoprefixer
+react-icons
+
+# Backend Dependencies (Node.js / Express)
+express
+mongoose
+cors
+dotenv
+jsonwebtoken
+bcryptjs
+nodemailer
+multer
